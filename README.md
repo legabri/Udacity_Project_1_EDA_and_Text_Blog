@@ -16,3 +16,5 @@ To be reproduced you will need
 -Numpy
 -Pandas 
 -Matplotlib
+
+You can read my text in https://medium.com/@gabrielriejun/babies-and-data-in-quebec-41b409142fbb
