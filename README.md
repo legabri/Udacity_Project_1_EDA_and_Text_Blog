@@ -8,3 +8,11 @@ Project 1 - Write A Data Science Blog Post
 Descriptive analysis answering at least 3 questions.
 Submit the code on github
 Write a blogpost telling the experience
+
+
+This project was done on a jupyter notebook.
+To be reproduced you will need
+-Python 3
+-Numpy
+-Pandas 
+-Matplotlib
