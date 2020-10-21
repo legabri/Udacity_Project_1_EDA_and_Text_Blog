@@ -1,20 +1,20 @@
-Data Scientist Nanodegree Program - Udacity
+# Data Scientist Nanodegree Program - Udacity
 
 Here is a brief description of the projects I have done.
 
 
-Project 1 - Write A Data Science Blog Post
+## Project 1 - Write A Data Science Blog Post
 
-Descriptive analysis answering at least 3 questions.
-Submit the code on github
-Write a blogpost telling the experience
+Descriptive analysis answering at least 3 questions.<br>
+Submit the code on github.<br>
+Write a blogpost telling the experience<br>
 
 
-This project was done on a jupyter notebook.
-To be reproduced you will need
--Python 3
--Numpy
--Pandas 
--Matplotlib
+This project was done on a jupyter notebook.<br>
+To be reproduced you will need<br>
+-Python 3<br>
+-Numpy<br>
+-Pandas <br>
+-Matplotlib<br>
 
 You can read my text in https://medium.com/@gabrielriejun/babies-and-data-in-quebec-41b409142fbb
