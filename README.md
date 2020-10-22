@@ -49,4 +49,6 @@ The government could facilitate the immigration of couples with children to mini
 ## -Pandas <br>
 ## -Matplotlib<br>
 
+### The files needed for this analysis are in this directory and can also be downloaded at www.donneesquebec.ca<br>
+
 ## You can read my text in https://medium.com/@gabrielriejun/babies-and-data-in-quebec-41b409142fbb
