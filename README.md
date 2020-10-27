@@ -63,3 +63,4 @@ The government could facilitate the immigration of couples with children to mini
 
 ### I thank the government of the province of Quebec for providing the data.<br>
 ### I also thank Udacity support to the students for helping me complete this project.<br>
+
