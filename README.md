@@ -41,7 +41,7 @@ This is an interesting question for me, as I have been a father for just over 2 
 
 ## File Descriptions
 
-The notebook 'udacity_project_1.ipynb' strives to answer some chosen question using simple exploratory data analysis, and descriptive statistics, (the aim is to avoid using any i
+The notebook 'udacity_project_1.ipynb' strives to answer some chosen question using simple exploratory data analysis.
 
 The data folder contains 7 files:
 
@@ -61,6 +61,6 @@ The government could facilitate the immigration of couples with children to mini
 
 ## Licensing, Authors, and Acknowledgements
 
-### I thank the government of the province of Quebec for providing the data.<br>
-### I also thank Udacity support to the students for helping me complete this project.<br>
+ I thank the government of the province of Quebec for providing the data.<br>
+ I also thank Udacity support to the students for helping me complete this project.<br>
 
