@@ -1,11 +1,10 @@
 # Table of Contents
 
 ### 1) Installation
-### 2) Project Motivation
-### 3) File Descriptions
-### 4) Results
+### 2) Business Understanding
+### 3) Data Understanding
+### 4) Evaluate the Results
 ### 5) Licensing, Authors, and Acknowledgements
-
 
 ## Installation
 
@@ -15,7 +14,7 @@
 ### *pandas
 ### *matplotlib
 
-## Project Motivation
+## Business Understanding
 
 Hello my name is Gabriel, this post is part of project 1 for the Udacity Nano Degree Data Scientist Diploma.<br>
 I am Brazilian but I have lived in Canada for a few years, more specifically in the province of Quebec.<br>
@@ -39,7 +38,7 @@ This is an interesting question for me, as I have been a father for just over 2 
 ### 8) Bonus: 2020–2021 birth prediction based on the variation of the last two periods<br>
 
 
-## File Descriptions
+## Data Understanding
 
 The notebook 'udacity_project_1.ipynb' strives to answer some chosen question using simple exploratory data analysis.
 
@@ -49,7 +48,7 @@ One file for each year of birth data by region of the province.
 
 ### The files needed for this analysis are in this directory and can also be downloaded at www.donneesquebec.ca<br>
 
-## Results
+## Evaluate the Results
 
 Unfortunately, in the majority of the analyzed periods, the birth rate decreases.<br>
 But luckily in the last 3 periods we have timid growth.<br>
